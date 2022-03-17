@@ -19,7 +19,7 @@ Here the result, from Remix :
 ![deploy-termine](https://user-images.githubusercontent.com/100287577/158903905-25400dba-de7b-4aaf-bb6a-bbf340cadbfb.jpg)
 
 
-and on Ganche-cli :
+and on Ganache-cli :
 
 
 
